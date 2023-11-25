@@ -22,7 +22,7 @@ Assignment Requirement: Create a simple iOS mobile application that:
 
 | Playlists Loading | Playlists Screen | First Playlist Screen | Second Playlists Screen |
 | --- | --- | --- | --- |
-| <img width=180 src="screenshoots/Loading.png" /> | <img width=180 src="screenshoots/StartScreen.png" /> | <img width=180 src="screenshoots/FirstPlaylist.png" /> | <img width=180 src="screenshoots/SecondPlaylists.png" /> |
+| <img width=180 src="screenshoots/Loading.png" /> | <img width=180 src="screenshoots/Playlists.png" /> | <img width=180 src="screenshoots/FirstPlaylist.png" /> | <img width=180 src="screenshoots/SecondPlaylists.png" /> |
 
 
 ## Tech Stack
