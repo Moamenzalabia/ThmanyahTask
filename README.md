@@ -1,41 +1,47 @@
-# ThmanyahUtilitiesKit
+# ThmanyahTask Assignment - iOS Developer 
 
-## How it works
-The repository Contains `UtilitiesKit` Package that allows you to use Helper Extensions to make your coding more faster and efficient.
-The repository Contains `EasyConstraints` Package that allows you to Desgin your screens by code.
-The repository Contains `DesignSystem` Package allows you to use all the features of standard UIButton with a lot of new cool features, customizable from Storyboard or from code.
+Assignment Requirement: Create a simple iOS mobile application that:
 
-| Start Screen | Loading Screen |
-| --- | --- |
-| <img src="screenshoots/StartScreen.png" /> | <img src="screenshoots/LoadingScreen.png" /> |
+* The user is presented with a Playlists.
+* Create Swift Package.
+* Use this api (https://drive.google.com/file/d/1jbFQubSdFsZVXRjQ94cDmVF5dJwu0gL6/view)
+* You can Select Playlist to Display it's Episodes.
 
-First of all, Create a new Button inside your view controller.
+## Key features: 
 
-| Button Creation | Button Action |
-| --- | --- |
-| <img src="screenshoots/ButtonsCreation.png" /> | <img src="screenshoots/ButtonsAction.png" /> |
+* Show loading indicator when activity api is calling.
+* Show activity data after api is called.
+* Show error message when problem happened.
+* User can replace current activity with another random activity.
+
+## Demo
+
+* [Google Drive ](https://drive.google.com/file/d/1FVID-y7LkoVyTEwXsKPDObuF7aT0ixyn/view?usp=sharing) 
+
+## Screenshots
+
+| Playlists Loading | Playlists Screen | First Playlist Screen | Second Playlists Screen |
+| --- | --- | --- | --- |
+| <img width=180 src="screenshoots/Loading.png" /> | <img width=180 src="screenshoots/StartScreen.png" /> | <img width=180 src="screenshoots/FirstPlaylist.png" /> | <img width=180 src="screenshoots/SecondPlaylists.png" /> |
 
 
-##### How to show the loader indicator
-```
-//Call `isAnimating` to check if Button is loading.
-myButton.startAnimating()
+## Tech Stack
 
-//Hide loader
-myButton.stopAnimating()
-```
+*  Swift 5
+*  UIKit
+*  Moya (networking layer)
+*  VIP architecture implement
+*  Codable (Object mapping)
 
-## Requirements
+## Architecture
 
-- iOS 14.0+
-- Xcode 14+
+Clean Architecture with VIP and MVVM pattern in the presentation layer
 
 ## Setup
-To get started, you need to have the ThmanyahUtilitiesKit package installed in your project please read this guidlines.
+
+Download code or clone repo then navigate to code path and open `ThmanyahTask.xcodeproj`  and follow this image.
+  <img width=180 src="screenshoots/Installation.png" /> 
 
 ```
-https://www.swiftlyrush.com/adding-a-swift-package-in-xcode/#:~:text=Open%20your%20Xcode%20project%2C%20navigate,URL%20to%20the%20Github%20page.
-```
-```
-.package(url: "https://github.com/Moamenzalabia/ThmanyahUtilitiesKit.git", .Branch("master"))
+Update to Latest Package Versions
 ```
