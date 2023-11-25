@@ -26,7 +26,6 @@ class HomeTableViewCellTests: XCTestCase {
         super.tearDown()
     }
     
-    
     func testFetchPlaylistSuccess() {
         mockDataService?.fetchPlaylist(id: "test", completion: { viewModel, error in
             self.dataSource = viewModel
