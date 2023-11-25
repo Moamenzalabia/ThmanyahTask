@@ -41,6 +41,7 @@ Clean Architecture with VIP and MVVM pattern in the presentation layer
 ## Setup
 
 Download code or clone repo then navigate to code path and open `ThmanyahTask.xcodeproj`  and follow this image.
+
   <img width=180 src="screenshoots/Installation.png" /> 
 
 ```
