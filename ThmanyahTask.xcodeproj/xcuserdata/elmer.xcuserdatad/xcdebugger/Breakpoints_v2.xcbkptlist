@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "887F7334-2C65-4A69-83D0-06D416E8783F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74960270-EFB0-421E-925F-E6B3A3D0B778"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThmanyahTask/Modules/Login/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "userLogin(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74960270-EFB0-421E-925F-E6B3A3D0B778 - 24c026f1056f893c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThmanyahTask.LoginInteractor.userLogin(parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ThmanyahTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elmer/Desktop/ThmanyahTask/ThmanyahTask/Modules/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "74960270-EFB0-421E-925F-E6B3A3D0B778 - 9e92ceb497fb963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ThmanyahTask.LoginEntity, Swift.Error&gt;) -&gt; () in ThmanyahTask.LoginInteractor.userLogin(parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ThmanyahTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elmer/Desktop/ThmanyahTask/ThmanyahTask/Modules/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "74960270-EFB0-421E-925F-E6B3A3D0B778 - 24c026f1056f8fe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThmanyahTask.LoginInteractor.userLogin(parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ThmanyahTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elmer/Desktop/ThmanyahTask/ThmanyahTask/Modules/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1500C387-52F9-483D-8280-17B9C51C81FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThmanyahTask/Modules/Login/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "userLogin(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1500C387-52F9-483D-8280-17B9C51C81FA - 24c026f1056f893c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThmanyahTask.LoginInteractor.userLogin(parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ThmanyahTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elmer/Desktop/ThmanyahTask/ThmanyahTask/Modules/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "1500C387-52F9-483D-8280-17B9C51C81FA - 24c026f1056f8fe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThmanyahTask.LoginInteractor.userLogin(parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ThmanyahTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elmer/Desktop/ThmanyahTask/ThmanyahTask/Modules/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

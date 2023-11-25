@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+        "version" : "5.8.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "277f1ab2c6664b19b4a412e32b094b201e2d5757",
+        "version" : "7.10.0"
+      }
+    },
+    {
+      "identity" : "moya",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Moya/Moya.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "963654cd4f82d17d7546b9d6127c29f6df091717"
+      }
+    },
+    {
+      "identity" : "nvactivityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/NVActivityIndicatorView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3c6c224115a2cce7608c9698d407a149283cdbdb"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
+        "version" : "6.7.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    },
+    {
+      "identity" : "thmanyahutilitieskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Moamenzalabia/ThmanyahUtilitiesKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "741ae55eff6c8d3a832759471572acbdfee05eaf"
+      }
+    },
+    {
+      "identity" : "viewanimator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marcosgriselli/ViewAnimator.git",
+      "state" : {
+        "revision" : "55f1c46241b181c3e0b68d70edb6d87926c7d183",
+        "version" : "3.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}

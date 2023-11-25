@@ -1,0 +1,26 @@
+/* 
+ Localizable.strings
+ ThmanyahTask
+ 
+ Created by Moamen on 24/11/2023.
+ 
+ */
+
+/// MARK: - General Key's
+"error_title_key" = "خطأ";
+"general_error_message_key" = "حدث خطأ ما الرجاء المحاولة مرة أخرى";
+"alert_ok_key" = "موافق";
+"alert_cancel_key" = "إلغاء";
+
+/// MARK: - TabBar Key's
+"home_key" = "الرئيسية";
+"search_key" = "البحث";
+"library_key" = "المكتبة";
+"change_language_key" = "تغير اللغة";
+
+/// MARK: - PlayLisr Key's
+"minute_key" = "دقيقة";
+"hours_key" = "ساعات";
+"episode_key" = "حلقة";
+"diversified_playback_key" = "تشغيل متنوع";
+"episodes_key" = "الحلقات";
