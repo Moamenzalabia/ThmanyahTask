@@ -9,14 +9,14 @@ Assignment Requirement: Create a simple iOS mobile application that:
 
 ## Key features: 
 
-* Show loading indicator when activity api is calling.
-* Show activity data after api is called.
+* Show loading indicator when playlist api is calling.
+* Show playlist data after api is called.
 * Show error message when problem happened.
-* User can replace current activity with another random activity.
+* User can select another playlist to display it's episodes.
 
 ## Demo
 
-* [Google Drive ](https://drive.google.com/file/d/1FVID-y7LkoVyTEwXsKPDObuF7aT0ixyn/view?usp=sharing) 
+* [Google Drive ](https://drive.google.com/file/d/1ZotME58WrB1X22BQfeuLP-Evy7XfNWDl/view?usp=sharing) 
 
 ## Screenshots
 
