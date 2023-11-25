@@ -15,12 +15,14 @@
 		46B5C5112B1253FD00507A84 /* MoyaAPIManagerInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C5102B1253FD00507A84 /* MoyaAPIManagerInterface.swift */; };
 		46B5C5132B12540800507A84 /* MoyaAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C5122B12540800507A84 /* MoyaAPIManager.swift */; };
 		46B5C5152B12549900507A84 /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C5142B12549900507A84 /* APIError.swift */; };
+		46B5C51F2B12787800507A84 /* LaunchScreenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C51E2B12787800507A84 /* LaunchScreenUITests.swift */; };
+		46B5C5222B12790C00507A84 /* MockPlayListDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C5212B12790C00507A84 /* MockPlayListDataService.swift */; };
+		46B5C5242B127BAB00507A84 /* HomeInteractorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B5C5232B127BAB00507A84 /* HomeInteractorTests.swift */; };
 		46C2FE992B1085390060A367 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FE982B1085390060A367 /* AppDelegate.swift */; };
 		46C2FEA22B10853C0060A367 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46C2FEA12B10853C0060A367 /* Assets.xcassets */; };
 		46C2FEA52B10853C0060A367 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46C2FEA32B10853C0060A367 /* LaunchScreen.storyboard */; };
 		46C2FEB02B10853C0060A367 /* ThmanyahTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FEAF2B10853C0060A367 /* ThmanyahTaskTests.swift */; };
 		46C2FEBA2B10853C0060A367 /* ThmanyahTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FEB92B10853C0060A367 /* ThmanyahTaskUITests.swift */; };
-		46C2FEBC2B10853C0060A367 /* ThmanyahTaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FEBB2B10853C0060A367 /* ThmanyahTaskUITestsLaunchTests.swift */; };
 		46C2FED02B1087B50060A367 /* BaseTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FECF2B1087B50060A367 /* BaseTabBarController.swift */; };
 		46C2FEE12B1089920060A367 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FEE02B1089920060A367 /* BaseViewController.swift */; };
 		46C2FEE32B1089BB0060A367 /* BaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C2FEE22B1089BB0060A367 /* BaseNavigationController.swift */; };
@@ -119,6 +121,9 @@
 		46B5C5102B1253FD00507A84 /* MoyaAPIManagerInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoyaAPIManagerInterface.swift; sourceTree = "<group>"; };
 		46B5C5122B12540800507A84 /* MoyaAPIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoyaAPIManager.swift; sourceTree = "<group>"; };
 		46B5C5142B12549900507A84 /* APIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		46B5C51E2B12787800507A84 /* LaunchScreenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenUITests.swift; sourceTree = "<group>"; };
+		46B5C5212B12790C00507A84 /* MockPlayListDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockPlayListDataService.swift; sourceTree = "<group>"; };
+		46B5C5232B127BAB00507A84 /* HomeInteractorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeInteractorTests.swift; sourceTree = "<group>"; };
 		46C2FE952B1085390060A367 /* ThmanyahTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThmanyahTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46C2FE982B1085390060A367 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46C2FEA12B10853C0060A367 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -128,7 +133,6 @@
 		46C2FEAF2B10853C0060A367 /* ThmanyahTaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThmanyahTaskTests.swift; sourceTree = "<group>"; };
 		46C2FEB52B10853C0060A367 /* ThmanyahTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThmanyahTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		46C2FEB92B10853C0060A367 /* ThmanyahTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThmanyahTaskUITests.swift; sourceTree = "<group>"; };
-		46C2FEBB2B10853C0060A367 /* ThmanyahTaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThmanyahTaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		46C2FECF2B1087B50060A367 /* BaseTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTabBarController.swift; sourceTree = "<group>"; };
 		46C2FEE02B1089920060A367 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		46C2FEE22B1089BB0060A367 /* BaseNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseNavigationController.swift; sourceTree = "<group>"; };
@@ -242,6 +246,23 @@
 			path = Network;
 			sourceTree = "<group>";
 		};
+		46B5C51D2B12786E00507A84 /* LaunchScreenUITests */ = {
+			isa = PBXGroup;
+			children = (
+				46B5C51E2B12787800507A84 /* LaunchScreenUITests.swift */,
+			);
+			path = LaunchScreenUITests;
+			sourceTree = "<group>";
+		};
+		46B5C5202B12790300507A84 /* MockPlayListDataService */ = {
+			isa = PBXGroup;
+			children = (
+				46B5C5212B12790C00507A84 /* MockPlayListDataService.swift */,
+				46B5C5232B127BAB00507A84 /* HomeInteractorTests.swift */,
+			);
+			path = MockPlayListDataService;
+			sourceTree = "<group>";
+		};
 		46C2FE8C2B1085390060A367 = {
 			isa = PBXGroup;
 			children = (
@@ -279,6 +300,7 @@
 		46C2FEAE2B10853C0060A367 /* ThmanyahTaskTests */ = {
 			isa = PBXGroup;
 			children = (
+				46B5C5202B12790300507A84 /* MockPlayListDataService */,
 				46C2FEAF2B10853C0060A367 /* ThmanyahTaskTests.swift */,
 			);
 			path = ThmanyahTaskTests;
@@ -287,8 +309,8 @@
 		46C2FEB82B10853C0060A367 /* ThmanyahTaskUITests */ = {
 			isa = PBXGroup;
 			children = (
+				46B5C51D2B12786E00507A84 /* LaunchScreenUITests */,
 				46C2FEB92B10853C0060A367 /* ThmanyahTaskUITests.swift */,
-				46C2FEBB2B10853C0060A367 /* ThmanyahTaskUITestsLaunchTests.swift */,
 			);
 			path = ThmanyahTaskUITests;
 			sourceTree = "<group>";
@@ -843,7 +865,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46B5C5242B127BAB00507A84 /* HomeInteractorTests.swift in Sources */,
 				46C2FEB02B10853C0060A367 /* ThmanyahTaskTests.swift in Sources */,
+				46B5C5222B12790C00507A84 /* MockPlayListDataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -851,8 +875,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46B5C51F2B12787800507A84 /* LaunchScreenUITests.swift in Sources */,
 				46C2FEBA2B10853C0060A367 /* ThmanyahTaskUITests.swift in Sources */,
-				46C2FEBC2B10853C0060A367 /* ThmanyahTaskUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
