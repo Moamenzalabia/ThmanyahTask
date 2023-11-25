@@ -9,6 +9,7 @@ Assignment Requirement: Create a simple iOS mobile application that:
 
 ## Key features: 
 
+* User must be login and using it's accessToken in Api header before showing Playlist.
 * Show loading indicator when playlist api is calling.
 * Show playlist data after api is called.
 * Show error message when problem happened.
